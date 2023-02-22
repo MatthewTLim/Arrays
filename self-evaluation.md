@@ -1,0 +1,3 @@
+# I feel fairly confident with arrays so far learnign the different methods through testing is very fun and useful, however I do find the documentation page's visual examples to be easier to understand.
+# I will continue to review the documentation page but as far as the lesson is concerened I feel that I have absorbed all of the info.
+# I am a bit confused about how arrays and booleans would interct with other datasets and would like to know more about this.
