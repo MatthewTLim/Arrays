@@ -16,4 +16,9 @@ scores.shift
 scores.unshift(4.1)
     print scores
 
-   
+# Index positions are the numerical order that elements appear in an array. Unlike traditonal counting the index always begins at 0 and continues from there (i.e. 0,1,2,3...)
+# An example of how this can be used with methods is shown below
+students.pop(2)
+    print students
+#You can see that by referencing the index postion 2 with the pop command that Julie will be removed from the array.
+
