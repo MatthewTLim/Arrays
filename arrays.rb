@@ -22,3 +22,6 @@ students.pop(2)
     print students
 #You can see that by referencing the index postion 2 with the pop command that Julie will be removed from the array.
 
+# Reverse flips the order of the elements in the array so first is last and last is first.
+students.reverse!
+    print students
